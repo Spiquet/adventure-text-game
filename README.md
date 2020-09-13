@@ -1,6 +1,6 @@
 # adventure-text-game
 
-Prototype to practise syntaxic parsing by building an adventure game without graphics
+Prototype to practise syntaxic parsing by building an adventure game without graphics and on the command line
 
 
 # Built With
